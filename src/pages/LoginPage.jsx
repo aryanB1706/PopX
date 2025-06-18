@@ -15,7 +15,7 @@ const LoginPage = () => {
 
   return (
     <div className="min-h-screen w-screen flex items-center justify-center bg-white">
-  <div className="bg-gray-50 w-66 min-h-screen flex flex-col justify-start p-3 shadow-md rounded text-left">
+  <div className="bg-gray-50 w-76 min-h-screen flex flex-col justify-start p-3 shadow-md rounded text-left">
     <div>
       <h2 className="text-lg font-bold mb-1 mt-2 mr-20">Signin to your PopX account</h2>
       <p className="text-gray-500 mb-3 text-xs font-medium mr-15">

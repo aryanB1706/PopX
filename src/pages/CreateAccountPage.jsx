@@ -28,7 +28,7 @@ const CreateAccountPage = () => {
 
   return (
     <div className="min-h-screen w-screen flex items-center justify-center bg-white">
-      <div className="bg-gray-50 w-66 min-h-screen flex flex-col justify-start p-4 shadow-md text-left">
+      <div className="bg-gray-50 w-76 min-h-screen flex flex-col justify-start p-4 shadow-md text-left">
         <h2 className="text-lg font-bold mb-2 mt-3 mr-26">
           Create your PopX account
         </h2>

@@ -3,7 +3,7 @@ import { FaCamera } from "react-icons/fa";
 function AccountSettingsPage() {
   return (
     <div className="flex justify-center min-h-screen bg-white">
-      <div className="w-66 bg-gray-50 border border-gray-200 rounded shadow-sm">
+      <div className="w-76 bg-gray-50 border border-gray-200 rounded shadow-sm">
        
         <div className="w-full border-b border-gray-100 px-4 py-3 bg-white">
           <h2 className="text-sm font-medium text-gray-800">

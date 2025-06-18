@@ -6,7 +6,7 @@ export default function WelcomePage() {
 
   return (
     <div className="min-h-screen w-screen flex items-center justify-center bg-white">
-      <div className="bg-gray-50 w-full max-w-sm  min-h-screen flex flex-col justify-end p-3.5 shadow-md rounded-none text-left">
+      <div className="bg-gray-50 w-76  min-h-screen flex flex-col justify-end p-3.5 shadow-md rounded-none text-left">
         <div className="w-60">
           <h1 className="text-xl font-bold mb-1">Welcome to PopX</h1>
           <h3 className="text-gray-500 mb-5 text-sm font-medium">
