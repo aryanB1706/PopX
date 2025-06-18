@@ -95,7 +95,7 @@ const CreateAccountPage = () => {
           {/* 👇 Button always stays at the bottom */}
           <button
             type="submit"
-            className="cursor-pointer w-full bg-violet-600 text-white font-medium py-2 rounded mt-100 text-xs mb-2"
+            className="cursor-pointer w-full bg-violet-600 text-white font-medium py-2 rounded mt-80 text-xs mb-2"
           >
             Create Account
           </button>
